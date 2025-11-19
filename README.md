@@ -28,6 +28,7 @@ With E-ZPassME, managing tolls has never been easier. The app provides tools for
 **John Finch**  
 - Email: johnfinch204@outlook.com  
 - Website:  [E-ZPassME](https://www.ez-passmaineturnpike.com)
+
 **Bio:**  
 John Finch is an experienced full-stack developer with expertise in React.js, Node.js, and web application design. Passionate about making travel easier and more efficient, they created E-ZPassME to help people manage their toll expenses with ease. With over 5 years of experience in software development, they are always looking for new ways to improve the user experience and optimize code.
 
